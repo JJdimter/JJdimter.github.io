@@ -3,6 +3,9 @@
 ## 🔗 Repositorios Forkeados
 - https://github.com/JJdimter/buffonico.github.io
 - Portafolio de un compañero de Bootcamp
+
+![Imagen del proyecto](./assets/img/Screenshot%202026-05-01%20at%2011.49.07 PM.png)
+
 - https://github.com/JJdimter/trejosd.github.io - 
 Portafolio de un compañero de Bootcamp
 
