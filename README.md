@@ -1,8 +1,10 @@
 # Jean Dimter - Portfolio
 
 ## 🔗 Repositorios Forkeados
-- https://github.com/JJdimter/buffonico.github.io (#) - *Descripción del primer repositorio*
-- (https://github.com/JJdimter/trejosd.github.io)(#) - *Descripción del segundo repositorio*
+- https://github.com/JJdimter/buffonico.github.io
+- Portafolio de un compañero de Bootcamp
+- https://github.com/JJdimter/trejosd.github.io - 
+Portafolio de un compañero de Bootcamp
 
 ---
 
