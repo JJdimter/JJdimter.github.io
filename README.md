@@ -8,6 +8,7 @@
 
 - https://github.com/JJdimter/trejosd.github.io - 
 Portafolio de un compañero de Bootcamp
+![Imagen del proyecto](./assets/img/ss2.png)
 
 ---
 
